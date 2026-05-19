@@ -6,7 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/yahyahafid/morocco-oil-energy-security/ci.yml?style=for-the-badge&label=CI)](https://github.com/yahyahafid/morocco-oil-energy-security/actions)
 
 **An econometric and policy-driven analysis of how global oil price shocks shape Morocco's energy security, fiscal stability, and transition readiness.**
 
