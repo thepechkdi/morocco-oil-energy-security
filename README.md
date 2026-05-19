@@ -66,17 +66,6 @@ morocco-oil-energy-security/
 ├── 📂 notebooks/
 │   └── morocco_oil_energy_security.ipynb   # Main analysis notebook
 │
-├── 📂 outputs/
-│   ├── model_results.csv           # Regression outputs / summary tables
-│   └── scenario_analysis.csv       # Policy scenario projections
-│
-├── 📂 figures/
-│   ├── brent_price_timeline.png
-│   ├── import_dependency_trend.png
-│   ├── subsidy_cost_decomposition.png
-│   ├── trade_balance_impact.png
-│   └── energy_transition_roadmap.png
-│
 ├── 📂 .github/
 │   └── workflows/
 │       └── ci.yml                  # GitHub Actions CI pipeline
@@ -93,17 +82,17 @@ morocco-oil-energy-security/
 
 > ⚠️ **Placeholder** — Fill in your actual findings after completing the analysis.
 
-- 📌 **Finding 1 — Import Dependency:** Morocco's oil import bill represented approximately `X%` of its total goods imports over the 2010–2023 period, with peak exposure during `[year]`.
+-  **Finding 1 — Import Dependency:** Morocco's oil import bill represented approximately `X%` of its total goods imports over the 2010–2023 period, with peak exposure during `[year]`.
 
-- 📌 **Finding 2 — Subsidy Burden:** A $10/barrel increase in Brent crude translates to an estimated `$X billion` increase in annual subsidy expenditure under the pre-2014 subsidy regime, equivalent to `X%` of GDP.
+-  **Finding 2 — Subsidy Burden:** A $10/barrel increase in Brent crude translates to an estimated `$X billion` increase in annual subsidy expenditure under the pre-2014 subsidy regime, equivalent to `X%` of GDP.
 
-- 📌 **Finding 3 — Trade Balance Sensitivity:** Each 10% rise in oil prices is associated with a deterioration of Morocco's current account balance by approximately `X%` of GDP within two quarters.
+-  **Finding 3 — Trade Balance Sensitivity:** Each 10% rise in oil prices is associated with a deterioration of Morocco's current account balance by approximately `X%` of GDP within two quarters.
 
-- 📌 **Finding 4 — Subsidy Reform Impact:** The 2014 subsidy deindexation reform reduced fiscal exposure to oil shocks by an estimated `X%`, though second-order inflation effects on low-income households remain a structural concern.
+-  **Finding 4 — Subsidy Reform Impact:** The 2014 subsidy deindexation reform reduced fiscal exposure to oil shocks by an estimated `X%`, though second-order inflation effects on low-income households remain a structural concern.
 
-- 📌 **Finding 5 — Transition Readiness:** Under a baseline renewable buildout scenario (20 GW solar + wind by 2030), Morocco's oil import dependency could fall to `X%`, saving an estimated `$X billion` annually at current prices.
+-  **Finding 5 — Transition Readiness:** Under a baseline renewable buildout scenario (20 GW solar + wind by 2030), Morocco's oil import dependency could fall to `X%`, saving an estimated `$X billion` annually at current prices.
 
-- 📌 **Finding 6 — Policy Recommendation:** `[Summarize your top policy recommendation here]`
+-  **Finding 6 — Policy Recommendation:** `[Summarize your top policy recommendation here]`
 
 ---
 
