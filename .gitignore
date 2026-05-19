@@ -1,0 +1,88 @@
+# ============================================================
+# .gitignore — Morocco Oil Energy Security Project
+# Python / Jupyter / Data Science
+# ============================================================
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Python Bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environments ---
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Environment Variables & Secrets ---
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets.json
+credentials.json
+
+# --- Large Data Files (push processed CSVs only if small) ---
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.parquet
+data/raw/*.zip
+data/raw/*.gz
+data/raw/*.h5
+data/raw/*.hdf5
+*.feather
+
+# --- Model Artefacts (can be large) ---
+*.pkl
+*.joblib
+*.model
+*.bin
+outputs/models/
+
+# --- OS & Editor Artefacts ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- Distribution / Packaging ---
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+MANIFEST
+
+# --- Coverage & Testing ---
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Temporary Files ---
+tmp/
+temp/
+*.tmp
+*.bak
+
+# --- Kaggle API ---
+kaggle.json
