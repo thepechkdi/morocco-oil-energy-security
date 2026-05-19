@@ -24,14 +24,13 @@ Morocco stands at a critical crossroads: a net oil importer with historically hi
 
 1. [Project Overview](#project-overview)
 2. [Project Structure](#project-structure)
-3. [Key Findings](#key-findings)
-4. [Methodology](#methodology)
-5. [Data Sources](#data-sources)
-6. [Requirements & Installation](#requirements--installation)
-7. [How to Run](#how-to-run)
-8. [Outputs & Figures](#outputs--figures)
-9. [License](#license)
-10. [Author](#author)
+3. [Methodology](#methodology)
+4. [Data Sources](#data-sources)
+5. [Requirements & Installation](#requirements--installation)
+6. [How to Run](#how-to-run)
+7. [Outputs & Figures](#outputs--figures)
+8. [License](#license)
+9. [Author](#author)
 
 ---
 
@@ -75,26 +74,6 @@ morocco-oil-energy-security/
 ├── LICENSE
 └── README.md
 ```
-
----
-
-## Key Findings
-
-> ⚠️ **Placeholder** — Fill in your actual findings after completing the analysis.
-
--  **Finding 1 — Import Dependency:** Morocco's oil import bill represented approximately `X%` of its total goods imports over the 2010–2023 period, with peak exposure during `[year]`.
-
--  **Finding 2 — Subsidy Burden:** A $10/barrel increase in Brent crude translates to an estimated `$X billion` increase in annual subsidy expenditure under the pre-2014 subsidy regime, equivalent to `X%` of GDP.
-
--  **Finding 3 — Trade Balance Sensitivity:** Each 10% rise in oil prices is associated with a deterioration of Morocco's current account balance by approximately `X%` of GDP within two quarters.
-
--  **Finding 4 — Subsidy Reform Impact:** The 2014 subsidy deindexation reform reduced fiscal exposure to oil shocks by an estimated `X%`, though second-order inflation effects on low-income households remain a structural concern.
-
--  **Finding 5 — Transition Readiness:** Under a baseline renewable buildout scenario (20 GW solar + wind by 2030), Morocco's oil import dependency could fall to `X%`, saving an estimated `$X billion` annually at current prices.
-
--  **Finding 6 — Policy Recommendation:** `[Summarize your top policy recommendation here]`
-
----
 
 ## Methodology
 
